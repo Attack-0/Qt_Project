@@ -43,7 +43,7 @@ private:
     // 定时器
     QTimer rtTimer;
 
-    // 角度
+    // 角度: 旋转因子通过定时器设定
     qreal rtAngle;
     int randNumber;
 
